@@ -1,0 +1,15 @@
+{
+  "name": "job-app-backend",
+  "version": "1.0.0",
+  "description": "Backend for job app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aneesh Kallarakkal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
